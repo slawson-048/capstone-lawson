@@ -6,7 +6,7 @@ This dataset captures job satisfication across roles, companies, and industries.
 ***
 
 ## Data Description
-##### Produced by the "Data Simluation" code.
+##### Produced by the "Data Simluation" code found in the "code" folder.
 
 ##### 1. Simulated_Data
 This dataset captures job satisfication across roles, companies, and industries. Currently it includes key job satisfaction categories such as work-life balance, career growth, compensation, leadership, and colleagues. The dataset is designed to provide deep insights into factors influencing employee satisfaction.
