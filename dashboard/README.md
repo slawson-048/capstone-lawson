@@ -1,23 +1,22 @@
-# Job Satisfaction Dashboard Data
+# Job Satisfaction Dashboard Instructions
 
 ## Overview 
-This dataset captures job satisfication across roles, companies, and industries. Currently it includes key job satisfaction categories such as work-life balance, career growth, compensation, leadership, and colleagues. The dataset is designed to provide deep insights into factors influencing employee satisfaction.
+To view and utilize the dashboard using the Tableau file, one must fall the following simple instructions.
 
 ***
 
 ## Data Description
-##### Produced by the "Data Simluation" code found in the "code" folder.
 
-##### 1. Simulated_Data
-This dataset captures job satisfication across roles, companies, and industries. Currently it includes key job satisfaction categories such as work-life balance, career growth, compensation, leadership, and colleagues. The dataset is designed to provide deep insights into factors influencing employee satisfaction.
-##### 2. Simulated_Data_Pivot
-A pivoted version of "Simulated_Data", reorganizing the data to allow for an alternative analytical perspective of categorical scoring.
-##### 3. Benchmark_Data
-Stemming from the "Simulated_Data" file, this date introduces variance by randomly adjusting scores within a ±50-point range (ensuring a limit of 100). This approach creates comparative benchmarks to highlight potential scoring variations.
-##### 4. Benchmark_Data_Pivot
-A pivoted version of "Benchmark_Data", reorganizing the data to allow for an alternative analytical perspective of categorical scoring.
-##### 5. Role_Data
-Additional dataset providing detailed role descriptions, improving the context of the "Simulated_Data" with additional role-specific information.
-
+##### 1. Download Tableau Desktop (free trial verison is acceptable)
+##### 2. Ensure Datasets are Available
+##### 3. Open "Job_Satisfaction_Dashboard" Tableau file
+The following "Extract Not Found" prompt will pop up:
+![Action1](https://github.com/user-attachments/assets/4da2db09-d143-4875-9968-8ed033d66dc7)
+Select "Deactivate the extract" option. From here the following prompt will pop up:
+![Action2](https://github.com/user-attachments/assets/255cdfca-5fed-4443-af6b-fe775911ea54)
+Press "Yes" and redirect the file to the correct corresponding file wherever the dataset is stored.
+In the above screenshot, the "Simulated_Data" file is going to be replaced.
+Repeat this process for each file in the dataset.
+##### 4. Utilize the Dashboard
 
 ***
