@@ -2,35 +2,30 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## A compendium of code, data, and author's manuscript accompanying the manuscript:
+## Repository of the code, the data, and the dashboard.
 
-#### TBD
+### File Organization
 
-
-## Overview
-This repository is organized as a reproducible research compendium. Future updates to this compendium will include a Dockerfile and Binder Container
-
-## File Organization
-
-    analysis/
+    capstone-lawson/
     |
-    ├── logs/
-    │   └── log.md          # log of any progress or relevant information
-    |
-    ├── figures/            # location of the figures produced for the manuscript
+    ├── dashboard/
+    │   └── Job_Satisfaction_Dashboard.twb        # Tableau file of the "Job Satisfaction" Dashboard
+    │   └── README.md                             # Instructions to utilize dashboard
     |
     ├── data/
-    |   ├── rawData/        # data obtained from elsewhere
-    │   └── derivedData/    # data generated from rawData/ and scripts.*
+    │   └── Data Simulation.ipynb              # Jupyter Notebook for data simulation code
+    │   └── Benchmark_Data.xlsx                # Data file for the dashboard
+    │   └── Benchmark_Data_Pivot.xlsx          # Data file for the dashboard
+    │   └── Role_Data.xlsx                     # Data file for the dashboard
+    │   └── Simulated_Data.xlsx                # Data file for the dashboard
+    │   └── Simulated_Data_Pivot.xlsx          # Data file for the dashboard
+    │   └── README.md                          # Information regarding the dataset
+    |
+    ├── documents/
+    |   ├── Final Project Write-Up - Job Satisfaction Dashboard.pdf          # Comprehensive PDF describing the purpose and life of the project
+    │   └── Gantt Chart - Job Satisfaction Dashboard.xlsx                    # Excel file breaking down tasks and due dates of the project
     |   
-    └── supplementaryMaterials/
-        ├── supplementaryFigures/     
-        |                   # supplementary figures for the main manuscript
-        └── supplementaryTables/      
-                            # supplementary tables for the main manuscript 
-    
-    R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── script.*        # hypothetical script used to wrangle the raw data, produce figures, analyses, and supplementary materials
-
-        
-
+    └── CONDUCT.md         # Statement regarding conduct of project manager and contributors
+    └── DESCRIPTION        # Git repository description
+    └── LICENSE            # General Public License
+    └── README.md          # Git repository homepage description
