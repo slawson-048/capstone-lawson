@@ -1,13 +1,13 @@
 # Job Satisfaction Dashboard Instructions
 
 ## Overview 
-To view and utilize the dashboard using the Tableau file, one must fall the following simple instructions.
+To view and utilize the dashboard using the Tableau file, one must fall the following instructions.
 
 ***
 
 ## Data Description
 
-##### 1. Download Tableau Desktop (free trial verison is acceptable)
+##### 1. Download Tableau Desktop (free trial version is acceptable)
 ##### 2. Ensure Datasets are Available
 ##### 3. Open "Job_Satisfaction_Dashboard" Tableau file
 The following "Extract Not Found" prompt will pop up:
